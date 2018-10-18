@@ -52,7 +52,7 @@ public class BeanFactoryTest {
 		}catch(BeanDefinitionStoreException e){
 			return;
 		}
-		Assert.fail("expect BeanDefinitionStoreException ");
-	}	
+		Assert.fail("expect BeanDefinitionStoreException");
+	}
 	
 }
